@@ -1,0 +1,3 @@
+  Manifest-Version: 1.0
+ SplashScreen-Image: TesteItau / splash.jpg
+ X-COMMENT: Main-Class será adicionado automaticamente por construir
